@@ -1,0 +1,1 @@
+start "" "projects/Processing-Rubiks_Cube/index/index.pde"
