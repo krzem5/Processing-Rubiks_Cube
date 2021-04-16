@@ -1,1 +1,3 @@
-start "" "projects/Processing-Rubiks_Cube/index/index.pde"
+@echo off
+cls
+python build.py %*
